@@ -24,3 +24,5 @@ elif checkDay == 'Sunday':  # if the Day in the list(variable) today is Sunday, 
     print('Rest & Relax')
 else:  # if the Day is neither Saturday nor Sunday, print the following.
     print('Go to Work')
+
+#Testing out git on another computer
